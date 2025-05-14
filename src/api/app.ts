@@ -1,5 +1,5 @@
-import express from 'express';
 import { jwtRouter } from '@app/api/routers';
+import express from 'express';
 
 const app = express();
 

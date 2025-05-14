@@ -1,2 +1,2 @@
-export { IValidator } from './IValidator';
 export { IRouter } from './IRouter';
+export { IValidator } from './IValidator';
